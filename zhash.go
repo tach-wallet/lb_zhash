@@ -1,4 +1,4 @@
-package zhash // import "github.com/zazab/zhash"
+package zhash // import "github.com/tach-wallet/lib_zhash"
 
 import (
 	"fmt"

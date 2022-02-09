@@ -1,4 +1,4 @@
-package zhash_test
+github.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashpackage zhash_test
 
 import (
 	"bytes"
