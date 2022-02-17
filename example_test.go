@@ -1,4 +1,4 @@
-github.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashpackage zhash_test
+package zhash_test
 
 import (
 	"bytes"
@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/zazab/zhash"
+	"github.com/tach-wallet/lb_zhash"
 )
 
 // Example HashFromMap shows how to initialize your hash from map

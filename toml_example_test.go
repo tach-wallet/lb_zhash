@@ -1,11 +1,19 @@
-github.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashpackage zhash_test
+package zhash_test
+
+import (
+	"bytes"
+	"fmt"
+	zhash "github.com/tach-wallet/lb_zhash"
+)
+
+package zhash_test
 
 import (
 	"bytes"
 	"fmt"
 
 	"github.com/BurntSushi/toml"
-	"github.com/zazab/zhash"
+	"github.com/tach-wallet/lb_zhash"
 )
 
 func unmarshalToml(d []byte, t interface{}) error {

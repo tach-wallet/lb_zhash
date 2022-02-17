@@ -1,3 +1,2 @@
-github.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashgithub.com/tach-wallet/lib_zhashmodule github.com/zazab/zhash
-
+module github.com/tach-wallet/lb_zhash
 go 1.16
