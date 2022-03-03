@@ -1,6 +1,19 @@
 zhash
 =====
 
+Como importar la libreria en los projectos:
+En terminal:
+```
+$ git config --global url.git@github.com:.insteadOf https://github.com/
+$ cat ~/.gitconfig
+[url "git@github.com:"]
+    insteadOf = https://github.com/
+$ go get github.com/tachwallet/lb_zhash
+```
+
+
+
+
 Bored of type switches when dealing with huge nested maps? zhash is for you!
 
 Create one
